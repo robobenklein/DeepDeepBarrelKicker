@@ -1,0 +1,4 @@
+imageio
+nbformat
+ipython
+jupyterlab
