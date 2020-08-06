@@ -1,4 +1,3 @@
 imageio
 nbformat
-ipython
-jupyterlab
+google-colab
